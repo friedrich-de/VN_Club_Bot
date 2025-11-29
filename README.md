@@ -1,3 +1,5 @@
+Development taken over by @drinosaret at https://github.com/drinosaret/VN_Club_Bot
+
 # VN Club Bot Command Reference
 
 This document outlines the commands and features of the VN Club Bot. The bot helps track visual novels read by members, assigns points, and manages a leaderboard.
